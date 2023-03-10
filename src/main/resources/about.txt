@@ -1,0 +1,9 @@
+Paint application which contains 3 types of actions:
+1) draw line (using Bresenham algorithm) with changeable width
+2) draw n-corner figures, and stars with changeable count of corners, radius, turn
+3) fill your picture (using span-fill algorithm)
+
+When you modify the size of the panel that is being shown,
+you are also changing the size of the image that will be produced
+
+made by Marina Senoshenko - FIT, group 20209
